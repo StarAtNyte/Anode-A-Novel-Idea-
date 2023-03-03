@@ -31,12 +31,8 @@ Anode has two sections.
 ## Instructions for Installation
 
 #### > Clone the repo
-#### > Open setup.py folder and write your openAI email and password in the config section and 2captcha api_key
-#### > Get the session token from openAI as shown in the image below
-
-<img width="1280" alt="image" src="https://user-images.githubusercontent.com/67851367/206921511-3b1e5085-b411-4397-8e78-88950bde5ae7.png">
-
-#### > Paste the token in setup.py along with your email and password
+#### > Get the api keys for open-ai and dreamstudio
+#### > Paste the api keys in all the pages
 
 ![image](https://user-images.githubusercontent.com/67851367/212468545-d35f0747-6dce-44a5-a878-d4394deb326c.png)
 
