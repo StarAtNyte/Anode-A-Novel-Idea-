@@ -1,0 +1,11 @@
+openai
+revChatGPT
+fpdf
+replicate
+PyPDF2
+stability-sdk
+https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
+requests
+setuptools
+
+
