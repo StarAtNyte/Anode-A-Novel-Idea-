@@ -33,9 +33,6 @@ Anode has two sections.
 #### > Clone the repo
 #### > Get the api keys for open-ai and dreamstudio
 #### > Paste the api keys in all the pages
-
-![image](https://user-images.githubusercontent.com/67851367/212468545-d35f0747-6dce-44a5-a878-d4394deb326c.png)
-
 #### > install requirements.txt
 #### > run: streamlit run main_page.py
 
